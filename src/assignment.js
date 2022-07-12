@@ -44,6 +44,7 @@ const numbers = [  68,
         -91,
         -50];
 sumOfNumbers(numbers)
+assignment.sumOfNumbers = sumOfNumbers;
 
 
 /**
@@ -90,6 +91,7 @@ const number =[ 17,
         29,
         64];
 countEvenNumbers(number)
+assignment.countEvenNumbers = countEvenNumbers;
 
 
 /**
